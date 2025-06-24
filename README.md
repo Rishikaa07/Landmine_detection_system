@@ -41,6 +41,7 @@ Displays detection data on a live dashboard with geolocation tagging and real-ti
 ✅ Instant SMS Alerts
 Sends instant landmine detection alerts via Twilio API, keeping users informed and safe.
 
+
 🌟 Impact
 🔥 70% faster and 3× more accurate than traditional manual demining methods
 
@@ -48,8 +49,9 @@ Sends instant landmine detection alerts via Twilio API, keeping users informed a
 
 💸 Cost-effective and scalable — adaptable for global humanitarian deployment
 
+
 📷 Preview (Optional)
-Add images, videos, or dashboard screenshots here to visually demonstrate your project.
+
 
 📁 Tech Stack
 Hardware: Drone, ESP32, LiDAR, GPR, GPS Module, Metal Detector
@@ -63,7 +65,7 @@ AI-powered drone for autonomous landmine detection using multi-sensor fusion and
 
 
 
-
+📷 Preview (Optional)
 ![2025-04-10 at 00 45 10_08495f21](https://github.com/user-attachments/assets/141eda00-912d-402f-9c6d-43af187d2b37)
 ![2025-04-10 at 00 46 04_cf82cbb0](https://github.com/user-attachments/assets/487c8496-df56-45b2-a0e4-99a17be688f8)
 ![2025-04-10 at 00 45 10_7242d81a](https://github.com/user-attachments/assets/81981b9e-726d-47fd-bed0-ac619aa918a5)
