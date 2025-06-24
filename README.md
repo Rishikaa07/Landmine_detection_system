@@ -50,8 +50,6 @@ Sends instant landmine detection alerts via Twilio API, keeping users informed a
 💸 Cost-effective and scalable — adaptable for global humanitarian deployment
 
 
-📷 Preview (Optional)
-
 
 📁 Tech Stack
 Hardware: Drone, ESP32, LiDAR, GPR, GPS Module, Metal Detector
@@ -70,6 +68,19 @@ AI-powered drone for autonomous landmine detection using multi-sensor fusion and
 ![2025-04-10 at 00 46 04_cf82cbb0](https://github.com/user-attachments/assets/487c8496-df56-45b2-a0e4-99a17be688f8)
 ![2025-04-10 at 00 45 10_7242d81a](https://github.com/user-attachments/assets/81981b9e-726d-47fd-bed0-ac619aa918a5)
 ![image](https://github.com/user-attachments/assets/38790811-9ec2-43c0-97e3-8fac6525d5d4)
+
+
+📁 Tech Stack
+Hardware: Drone, ESP32, LiDAR, GPR, GPS Module, Metal Detector
+
+Software: Python, OpenCV, YOLOv8, TensorFlow, Twilio API
+
+Cloud/IoT: MQTT, Firebase (or any real-time DB), Live Dashboard
+
+🧠🚁 AI and IoT-Integrated Autonomous Mine Detection
+AI-powered drone for autonomous landmine detection using multi-sensor fusion and real-time monitoring. Integrated with Twilio for instant SMS alerts, enhancing safety and efficiency.
+
+
 
 
 📬 Get in Touch
