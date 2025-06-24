@@ -71,6 +71,7 @@ AI-powered drone for autonomous landmine detection using multi-sensor fusion and
 
 
 📬 Get in Touch
+
 📧 vermarishika709@gmail.com
 
 🔗 [LinkedIn – Rishika Verma](https://www.linkedin.com/in/rishika-verma-49b366287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
