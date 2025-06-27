@@ -3,7 +3,7 @@
 AI-powered drone for autonomous landmine detection using multi-sensor fusion and real-time monitoring. Integrated with Twilio for instant SMS alerts, enhancing safety and efficiency.
 
 🔍 Overview
-This project presents an autonomous AI-based drone system designed to detect landmines with high accuracy and minimal human intervention. Leveraging advanced machine learning models (YOLOv8, Faster R-CNN) and multi-sensor fusion, the drone navigates and scans areas autonomously. Upon detecting a potential landmine, the system instantly sends SMS alerts via Twilio, ensuring quick response and increased safety in mine-affected zones.
+This project presents an autonomous AI-based drone system designed to detect landmines with high accuracy and minimal human intervention. Leveraging advanced machine learning models (YOLOv8, Faster R-CNN) and multi-sensor fusion, the drone navigates and scans areas autonomously. Upon detecting a potential landmine, the system instantly sends SMS alerts via Twilio, ensuring quick response and increased safety in mine-affected zones. 
  Pre-Requisites & Instructions :
 -- python (3.7 or higher))
 -- Required Python Libraries to be installed : streamlit
