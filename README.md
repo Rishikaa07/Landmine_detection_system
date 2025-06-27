@@ -57,7 +57,7 @@ Software: Python, OpenCV, YOLOv8, TensorFlow, Twilio API
 
 Cloud/IoT: MQTT, Firebase (or any real-time DB), Live Dashboard
 
-🧠🚁 AI and IoT-Integrated Autonomous Mine Detection
+🧠🚁 AI and IoT-Integrated Autonomous Mine Detection 
 AI-powered drone for autonomous landmine detection using multi-sensor fusion and real-time monitoring. Integrated with Twilio for instant SMS alerts, enhancing safety and efficiency.
 
 
