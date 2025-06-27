@@ -38,7 +38,7 @@ Utilizes ESP32, GPS, and LiDAR for intelligent path planning and terrain scannin
 Displays detection data on a live dashboard with geolocation tagging and real-time status reporting.
 
 ✅ Instant SMS Alerts
-Sends instant landmine detection alerts via Twilio API, keeping users informed and safe.
+Sends instant landmine detection alerts via Twilio API, keeping users informed and safe. 
 
 
 🌟 Impact
