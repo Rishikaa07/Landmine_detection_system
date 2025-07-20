@@ -2,7 +2,7 @@ import random
 import time
 from datetime import datetime
 
-class DroneSimulator:
+class DroneSimulator: 
     """
     A class to simulate a drone for landmine detection operations.
     Provides realistic positioning and status information without requiring actual hardware.
