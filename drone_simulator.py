@@ -5,7 +5,7 @@ from datetime import datetime
 class DroneSimulator: 
     """
     A class to simulate a drone for landmine detection operations.
-    Provides realistic positioning and status information without requiring actual hardware.
+    Provides realistic positioning and status information without requiring actual hardware. 
     """
     
     def __init__(self, initial_lat=0.0, initial_lng=0.0, initial_altitude=10.0):
