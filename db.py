@@ -43,7 +43,7 @@ class Detection(Base):
             "confidence": self.confidence,
             "image_path": self.image_path,
             "x": self.x,
-            "y": self.y,
+            "y": self.y, 
             "width": self.width,
             "height": self.height
         }
