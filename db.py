@@ -2,7 +2,7 @@ import os
 import sqlalchemy as sa
 from sqlalchemy import create_engine, Column, Integer, Float, String, DateTime, Text
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import sessionmaker 
 from datetime import datetime
 
 # Always use SQLite for this application to avoid database connection issues
