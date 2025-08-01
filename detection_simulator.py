@@ -4,7 +4,7 @@ from datetime import datetime
 from utils import generate_unique_id
 
 class DetectionSimulator:
-    """
+    """ 
     Simulates the detection of objects by the drone's sensors.
     Provides realistic detection events based on location and probability.
     """
