@@ -6,7 +6,7 @@ import time
 import io
 import json
 import random
-import os
+import os 
 from drone_simulator import DroneSimulator
 from detection_simulator import DetectionSimulator
 from utils import get_status_color, format_timestamp, generate_unique_id
