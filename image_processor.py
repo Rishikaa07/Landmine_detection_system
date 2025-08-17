@@ -1,7 +1,7 @@
 """
 Image Processor for Landmine Detection
 
-This module provides functions for detecting landmines in images
+This module provides functions for detecting landmines in images  
 using OpenCV and basic image processing techniques.
 """
 
