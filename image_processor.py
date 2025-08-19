@@ -6,7 +6,7 @@ using OpenCV and basic image processing techniques.
 """
 
 import os
-import cv2
+import cv2  
 import numpy as np
 import json
 import datetime
